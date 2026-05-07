@@ -1,0 +1,14 @@
+# Node modules (no se suben)
+node_modules/
+
+# Variables de entorno con contraseñas (NO se suben)
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
